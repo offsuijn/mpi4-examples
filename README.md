@@ -1,2 +1,2 @@
-# open-mpi-programming
+# mpi4-examples
 MPI programming code in C
