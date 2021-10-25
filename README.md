@@ -1,2 +1,2 @@
-# mpi4-examples
-MPI programming code in C
+# parallel-programming-examples
+Parallel programming code in C
