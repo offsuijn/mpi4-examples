@@ -2,4 +2,8 @@
 Parallel programming code in C
 
 ## MPI Programming
-01 ~ 06
+- Message Passing Model
+- 01 ~ 06
+
+## Pthread Programming
+- Shared Memory Model
