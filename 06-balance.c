@@ -1,3 +1,5 @@
+// Synchronization using Joining
+
 #include <pthread.h>
 #include <stdio.h>
 
