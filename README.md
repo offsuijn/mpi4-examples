@@ -7,3 +7,4 @@ Parallel programming code in C
 
 ## Pthread Programming
 - Shared Memory Model
+- 06 ~ 09
