@@ -11,4 +11,4 @@ Parallel programming code in C
 
 ## OpenMP Programming
  - Shared Memory Model
- - 10 ~ 13
+ - 10 ~ 17
