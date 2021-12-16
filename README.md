@@ -12,3 +12,6 @@ Parallel programming code in C
 ## OpenMP Programming
  - Shared Memory Model
  - 10 ~ 17
+
+## MapReduce Programming
+ - 18 ~ 21
