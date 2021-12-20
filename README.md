@@ -14,4 +14,5 @@ Parallel programming code in C
  - 10 ~ 17
 
 ## MapReduce Programming
- - 18 ~ 21
+ - Parallelize computation on *multiple* machines
+ - 18 ~ 22
